@@ -1,0 +1,82 @@
+{
+    "categories": [
+      { "id": "1", "name": "Vegetarian" },
+      { "id": "2", "name": "Non-Vegetarian" },
+      { "id": "3", "name": "Desserts" },
+      { "id": "4", "name": "Snacks" },
+      { "id": "5", "name": "Beverages" }
+    ],
+    "latestRecipes": [
+      {
+        "id": "101",
+        "name": "Pasta",
+        "description": "Delicious creamy pasta",
+        "image": "https://example.com/pasta.jpg",
+        "category": "Vegetarian"
+      },
+      {
+        "id": "102",
+        "name": "Burger",
+        "description": "Juicy beef burger",
+        "image": "https://example.com/burger.jpg",
+        "category": "Non-Vegetarian"
+      },
+      {
+        "id": "103",
+        "name": "Pizza",
+        "description": "Classic pepperoni pizza",
+        "image": "https://example.com/pizza.jpg",
+        "category": "Non-Vegetarian"
+      },
+      {
+        "id": "104",
+        "name": "Salad",
+        "description": "Fresh garden salad",
+        "image": "https://example.com/salad.jpg",
+        "category": "Vegetarian"
+      },
+      {
+        "id": "105",
+        "name": "Cake",
+        "description": "Chocolate fudge cake",
+        "image": "https://example.com/cake.jpg",
+        "category": "Desserts"
+      },
+      {
+        "id": "106",
+        "name": "Smoothie",
+        "description": "Strawberry smoothie",
+        "image": "https://example.com/smoothie.jpg",
+        "category": "Beverages"
+      },
+      {
+        "id": "107",
+        "name": "Soup",
+        "description": "Warm tomato soup",
+        "image": "https://example.com/soup.jpg",
+        "category": "Vegetarian"
+      },
+      {
+        "id": "108",
+        "name": "Tacos",
+        "description": "Spicy beef tacos",
+        "image": "https://example.com/tacos.jpg",
+        "category": "Non-Vegetarian"
+      },
+      {
+        "id": "109",
+        "name": "Sushi",
+        "description": "Fresh salmon sushi",
+        "image": "https://example.com/sushi.jpg",
+        "category": "Non-Vegetarian"
+      },
+      {
+        "id": "110",
+        "name": "Pancakes",
+        "description": "Fluffy pancakes",
+        "image": "https://example.com/pancakes.jpg",
+        "category": "Desserts"
+      }
+    ]
+  }
+  
